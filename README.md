@@ -28,7 +28,7 @@ The worksheet deliberately has no VIN, customer name or contact field. Use your 
 
 The included fictional scenarios teach how to notice missing evidence. They are not observations of real vehicles, FCC filings, supplier inventory, conversion rates or customer jobs. No fitment, start authorization or tool capability should be inferred from them.
 
-Open `index.html` in any modern browser. You can copy a Markdown note or print the worksheet. The form does not persist after reloading; save the note deliberately if you need it. Its links go to public sources, and the AutoSmith link carries a referral tag so aggregate visits from this resource can be distinguished.
+Open the [live browser worksheet](https://chinadoc.github.io/autosmith-fcc-evidence-checklist/) or download this repository and open `index.html` in any modern browser. You can copy a Markdown note or print the worksheet. The form does not persist after reloading; save the note deliberately if you need it. Its links go to public sources, and the AutoSmith link carries a referral tag so aggregate visits from this resource can be distinguished.
 
 ## Files and rights
 
